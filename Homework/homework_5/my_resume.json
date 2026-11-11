@@ -1,0 +1,13 @@
+{
+  "fio": "Фамилия Имя",
+  "position": "Junior Python-разработчик",
+  "city": "Ярославль",
+  "salary": 85000,
+  "ready_to_move": false,
+  "skills": ["Python", "SQL", "Git"],
+  "experience": [
+    { "company": "Учебный проект", "role": "Стажёр-разработчик", "months": 8 }
+  ],
+  "contacts": { "email": "student@example.com" },
+  "updated": { "$date": "2026-11-10T09:00:00.000Z" }
+}
